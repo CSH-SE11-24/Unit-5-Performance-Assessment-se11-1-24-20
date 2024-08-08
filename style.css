@@ -1,0 +1,13 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.smbar{
+  text-align: center;
+  color: #FFDE00;
+  background-color: #367C2B;
+  margin: 0%;
+}
+body, html{
+  background-color: #373737;
+}
